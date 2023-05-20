@@ -4,5 +4,5 @@
 ![alt text](/images/6.png)
 
 ```
-import pandas as pd
+* import pandas as pd
 ```
